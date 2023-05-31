@@ -9,7 +9,6 @@ import com.rakibofc.picsurge.databinding.ActivityMainBinding
 import com.rakibofc.picsurge.receivers.ConnectionReceiver
 import com.rakibofc.picsurge.viewmodels.MainViewModel
 
-
 class MainActivity : AppCompatActivity() {
 
     private var intentFilter: IntentFilter? = null
