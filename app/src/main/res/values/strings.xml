@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicSurge</string>
+    <string name="message">Click the image to generate a random placeholder image.</string>
+</resources>
